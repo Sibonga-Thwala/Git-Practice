@@ -1,3 +1,3 @@
-Git Practice
+# Git Practice
 
 Learning Git from scratch.
